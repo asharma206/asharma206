@@ -6,7 +6,7 @@
 ---
 
 ##  **Featured Projects**
-- **[PharmaStock](https://github.com/manan0701/pharmastock)** *(Group Project)*  
+- **[PharmaStock](https://github.com/asharma206/PharmaStock.git)** *(Group Project)*  
   *React, Node.js/Express, MongoDB, AI Forecasting with Python (Scikit-learn, Prophet), Chart.js*  
   Smart pharmacy inventory and expiry system with AI-powered demand forecasting and analytics. I collaborated with Jenil Shah and Manan Patel to build this project.
   
